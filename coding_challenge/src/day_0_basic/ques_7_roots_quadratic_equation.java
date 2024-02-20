@@ -13,7 +13,7 @@ If D < 0:
         => The roots are imaginary and unequal.
         => The roots are {-b ± sq (-1*-D)} / 2a = {-b ± i sq(-D)} / 2a = {-b ± i sq-(b2 – 4ac)}/2a where i = ?-1.
 */
-package day_1_basic;
+package day_0_basic;
 import java.util.Scanner;
 
 public class ques_7_roots_quadratic_equation {
